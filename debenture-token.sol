@@ -3,7 +3,9 @@ SPDX-License-Identifier: CC-BY-4.0
 (c) Desenvolvido por Eduhkbr
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 */
-
+/*
+* Endereço do Token: 0x2A846FC387e88F1fAC685AeFD70EeE26394C5611
+*/
 pragma solidity 0.8.19;
 
 /**
